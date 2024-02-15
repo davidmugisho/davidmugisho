@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm David Mugisho</h1>
-<h3 align="center">A passionate Full Stack developer from kigali</h3>
+<h3 align="center">A passionate Full Stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidmugisho&label=Profile%20views&color=0e75b6&style=flat" alt="davidmugisho" /> </p>
-
-- 🔭 I’m currently studing computer science [INSIDE MAIL](https://youtu.be/Tv0WUkv1qSg)
 
 - 🌱 I’m currently learning **JavaScript,Raku,Ruby,Rust,PHP,Dark,Haskell**
 
 - 👨‍💻 All of my projects are available at [https://ide.cs50.io/76ecd4afc0344295a6fc16e50b6a6251](https://ide.cs50.io/76ecd4afc0344295a6fc16e50b6a6251)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **javaScript**
 
 - 📫 How to reach me **davidmugisho243@gmail.com**
 
-- ⚡ Fun fact **i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
